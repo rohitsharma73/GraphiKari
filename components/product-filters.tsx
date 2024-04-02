@@ -18,6 +18,7 @@ const filters = [
       { value: "Anime Mobile Skins", label: "Anime Mobile Skins" },
       { value: "Graffiti Mobile Skins", label: "Graffiti Mobile Skins" },
       { value: "Random Mobile Skins", label: "Random Mobile Skins" },
+      { value: "Poster", label: "Poster" },   
       // { value: "scarves", label: "Scarves" },
       // { value: "wallets", label: "Wallets" },
     ],
