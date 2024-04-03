@@ -51,7 +51,6 @@ const filters = [
       // by devraj
       { value: "16 inch", label: "16 inch" },
       { value: "14 inch", label: "14 inch" },
-
     ],
   },
 ]
