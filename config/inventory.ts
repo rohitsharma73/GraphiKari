@@ -1,4 +1,4 @@
- import { Image } from "sanity"
+import { Image } from "sanity"
 
 interface InventoryProduct {
   id: string
