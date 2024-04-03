@@ -1046,7 +1046,7 @@ export const inventory: InventoryProduct[] = [
     currency: "INR",
   },
   {
-    id: "38cee44-8af0-4852-8e1e-09bdff2b5d25",
+    id: "238cee44-8af0-4852-8e1e-09bdff2b5d25",
     sku: "gt",
     name: "GT",
     description: `"Experience the thrill of the GT with our captivating poster. Featuring sleek design and exhilarating performance, it's a must-have for automotive enthusiasts."`,
