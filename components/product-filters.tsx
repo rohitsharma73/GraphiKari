@@ -18,6 +18,10 @@ const filters = [
       { value: "Anime Mobile Skins", label: "Anime Mobile Skins" },
       { value: "Graffiti Mobile Skins", label: "Graffiti Mobile Skins" },
       { value: "Random Mobile Skins", label: "Random Mobile Skins" },
+
+      //added by mohit
+      { value: "Printed T-Shirts", label: "Printed T-Shirts" },
+      { value: "Wall Stickers", label: "Wall Stickers" },
       // { value: "scarves", label: "Scarves" },
       // { value: "wallets", label: "Wallets" },
     ],
@@ -32,6 +36,14 @@ const filters = [
       { value: "l", label: "Large" },
       { value: "xl", label: "X-Large" },
       { value: "one-size", label: "One Size" },
+
+      //added by mohit
+      { value: "red", label: "Red" },
+      { value: "mahroon", label: "Mahroon" },
+      { value: "yellow", label: "Yellow" },
+      { value: "blue", label: "Blue" },
+      { value: "Black", label: "Black" },
+      { value: "one-feet", label: "one Sq. Feet" },
     ],
   },
 ]

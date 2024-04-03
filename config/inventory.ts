@@ -422,4 +422,464 @@ export const inventory: InventoryProduct[] = [
     colors: ["black"],
     currency: "INR",
   },
+  
+  
+  //added by Mohit
+
+
+  //DCU collection
+
+  {
+    id: "a0933a8e-50fa-4b0f-a2e8-4184a23b78f6",
+    sku: "deadpool",
+    name: "DeadPool",
+    description: `""Add a touch of humor with the Deadpool poster. Iconic design, vibrant colors, perfect for any fan!""`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/eb7266c3d7d5aba6c2ce48aa650ac0bc18bc07e8-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/eb7266c3d7d5aba6c2ce48aa650ac0bc18bc07e8-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["POster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "15944747-9452-4896-b72f-f40a0c067100",
+    sku: "batman",
+    name: "Batman",
+    description: `"Transform your space with the iconic Batman Wall Poster. Embrace Gotham's guardian with this dynamic piece. Perfect for any fan's collection."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/ad676800e5c5554367fa341d09785a84d397c8f8-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/ad676800e5c5554367fa341d09785a84d397c8f8-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+
+
+
+  //football
+
+  {
+    id: "2a09162f-3da9-49ab-9a9d-a62ddc2bf2d4",
+    sku: "cristiano-ronaldo",
+    name: "Cristiano Ronaldo",
+    description: `"Elevate your walls with the Cristiano Ronaldo Wall Poster, capturing his legendary pose. Showcase the spirit of football excellence in your space."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/a4f831eb2700bea74ff2d00c6b535be7c7a413e6-493x740.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/a4f831eb2700bea74ff2d00c6b535be7c7a413e6-493x740.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "3b268404-af40-44e1-8e57-9b76dd53d8f5",
+    sku: "lionel-messi",
+    name: "Lionel Messi",
+    description: `"Revitalize your room with the Lionel Messi Cute Laughing Poster, crowned with the title of the Greatest of All Time (GOAT). Celebrate football brilliance with a touch of charm."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/8587e084c6cedb0a21a69aba5ddbc3e13c062e21-493x740.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/8587e084c6cedb0a21a69aba5ddbc3e13c062e21-493x740.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+
+
+  //games
+
+  {
+    id: "ed0d361a-65e4-4ec5-a132-2a506d828036",
+    sku: "gta-5",
+    name: "GTA 5",
+    description: `"Revitalize your gaming setup with the iconic GTA 5 Poster. Immerse yourself in the thrilling world of Los Santos with this must-have addition."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/eb3a9cafc48db7658e27506a140d20144c7cb926-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/eb3a9cafc48db7658e27506a140d20144c7cb926-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "64b2a1fa-6ccd-488a-afdc-8cd86abd070d",
+    sku: "assassian-s-creed",
+    name: "Assassian's Creed",
+    description: `"Embark on an epic journey with the Assassin's Creed Poster. Dive into historical landscapes, master stealth, and unravel ancient mysteries with this captivating addition to your collection."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/5d612b4a79448513267c103bbe336e4809ca9621-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/5d612b4a79448513267c103bbe336e4809ca9621-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+
+
+  //marvel
+
+  {
+    id: "e04ea4f2-da14-4958-bdda-51296b21a0fe",
+    sku: "thor",
+    name: "Thor",
+    description: `"Channel the power of thunder with the Thor Poster. Embrace the mighty Norse god's heroic stance and wield the strength of Mjolnir in your space."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/598286bfdcf1a256dbd599899f588fc67c7b2a0b-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/598286bfdcf1a256dbd599899f588fc67c7b2a0b-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "8c102c3c-1260-47e2-8f79-1e79512452ad",
+    sku: "spiderman-across-the-verse",
+    name: "Spiderman - Across The Verse",
+    description: `"Swing into action with the Spider-Man: Across the Verser Poster featuring the fierce Female Spider-Man. Explore multiverse adventures with this dynamic addition to your wall."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/ee2a6ff1070a30b79cc083102a047b5bbf2f7828-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/ee2a6ff1070a30b79cc083102a047b5bbf2f7828-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+
+  //Motivation
+  {
+    id: "ffedce2d-0f66-45cf-9e2f-897b8757481b",
+    sku: "build-yourself",
+    name: "Build Yourself",
+    description: `"Ignite motivation with the "Build Yourself, Success Will Come" Poster. Embrace growth, perseverance, and the journey to achievement with this inspirational reminder on your wall."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/f833681db4772eee822bc98f084eb003e43e9264-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/f833681db4772eee822bc98f084eb003e43e9264-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "d91a3092-7f23-41d7-b3f3-0136eff04752",
+    sku: "again",
+    name: "Again",
+    description: `"Persist with the "Again and Again Till Gain" Poster. Embrace resilience, determination, and the path to success with this motivational mantra displayed proudly on your wall."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/108ba63b58a3577585e7dc945dd65fa85ea7ae4e-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/108ba63b58a3577585e7dc945dd65fa85ea7ae4e-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["black"],
+    currency: "INR",
+  },
+
+  //TShirt printing
+
+  //black tshirts
+  {
+    id: "c18157dd-7135-4ba2-994f-e73f2cee65a3",
+    sku: "graphikari-special-t-shirt",
+    name: "Graphikari Special T-Shirt",
+    description: `"Elevate your style with the Graphikari Brand Special Printed T-Shirt. Embrace unique designs, premium quality, and unmatched comfort with this exclusive addition to your wardrobe."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/7801d20e7c67fccbeaa6df8f2d250b822dd9ba4c-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/7801d20e7c67fccbeaa6df8f2d250b822dd9ba4c-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "9b833e98-f2af-4592-a7b9-d61ce1022eb9",
+    sku: "naruto-sage-mode-on",
+    name: "Naruto: Sage Mode On",
+    description: `"Level up your style with the Naruto Sage Mode Printed T-Shirt. Channel the power of the sage and showcase your love for Naruto with this dynamic and eye-catching design."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/980a94501ac5871bf64ebb41f400be4cd2af2f3d-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/980a94501ac5871bf64ebb41f400be4cd2af2f3d-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+      "https://cdn.sanity.io/images/hscq4du4/production/92ff3254d2f4b2f429f87abacb88fea9adc312fe-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["black", "blue"],
+    currency: "INR",
+  },
+  {
+    id: "ee0a8638-3cf2-4ac7-a98d-4d093f736dd9",
+    sku: "monkey-d-luffy-gear-5",
+    name: "Monkey D. Luffy - Gear 5",
+    description: `"Embrace the power of the pirate king with the Monkey D. Luffy Gear 5 Printed T-Shirt. Display Luffy's ultimate form and unleash your inner warrior with this bold and striking design."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/9d3fa4ee827781d21d151a1d9a7615a90cd2683c-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/9d3fa4ee827781d21d151a1d9a7615a90cd2683c-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+      "https://cdn.sanity.io/images/hscq4du4/production/283de6aa29053262289c10b475c16a7d250ac6ab-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["black", "mahroon"],
+    currency: "INR",
+  },
+  {
+    id: "25172a81-9401-47f8-b113-862ccbcdd5ac",
+    sku: "venom",
+    name: "Venom",
+    description: `"Unleash the darkness with the Venom Printed T-Shirt. Embrace the symbiotic power and embody the anti-hero within with this captivating and edgy design."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/208031102de2dbe7a203c875e9a7b39f53d77b63-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/208031102de2dbe7a203c875e9a7b39f53d77b63-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+      "https://cdn.sanity.io/images/hscq4du4/production/9e54b52c889f9d2b4c7572bdcbc92b60329a1454-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["black", "red"],
+    currency: "INR",
+  },
+
+  //blue tshirts one included in black 
+  {
+    id: "1b6d751f-5200-4192-9699-103c67931f71",
+    sku: "ignorant-turtle",
+    name: "Ignorant Turtle",
+    description: `"Empower your voice with the "No Means No" Turtle Printed T-Shirt. Advocate for consent and stand against injustice with this impactful design, featuring a symbol of resilience and strength."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/7dd41c7ad82e1f5a6002f2e4268cc8c57ee7a9b5-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/7dd41c7ad82e1f5a6002f2e4268cc8c57ee7a9b5-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["blue"],
+    currency: "INR",
+  },
+  {
+    id: "bc4c3dcb-1eff-44ea-a6ee-8aeeae58424c",
+    sku: "baby-dragon",
+    name: "Baby Dragon",
+    description: `"Ignite your style with the "I Am Diano*Mite" Baby Dragon Printed T-Shirt. Embrace your inner fire and unleash your potential with this playful and charismatic design."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/5c3a56eb9736de2bd55433d385eca39ddd5fe475-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/5c3a56eb9736de2bd55433d385eca39ddd5fe475-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["blue"],
+    currency: "INR",
+  },
+
+  //mahroon
+  {
+    id: "4a7c39e7-96f2-46b2-b6d8-3442b3d99ba9",
+    sku: "ducking",
+    name: "Ducking",
+    description: `"Express your carefree attitude with the "Not My Problem" Duck Posing Printed T-Shirt. Embrace a laid-back approach to life with this humorous and relatable design, perfect for casual days."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/ab302f39e88d2c3cb11dd8bc62cf029c8e10afa1-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/ab302f39e88d2c3cb11dd8bc62cf029c8e10afa1-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["mahroon"],
+    currency: "INR",
+  },
+  {
+    id: "ceabccb8-6714-4194-be78-7ea1c15ac66e",
+    sku: "hot-wings",
+    name: "Hot Wings",
+    description: `"Embrace whimsy with the Cartoon Riding Chicken Printed T-Shirt. Featuring digital illustrations, this playful design captures the joy of adventure and camaraderie, perfect for adding a touch of fun to your wardrobe."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/a91f1bf5850f0a0ab205d460680c08620b450edb-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/a91f1bf5850f0a0ab205d460680c08620b450edb-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+      "https://cdn.sanity.io/images/hscq4du4/production/3200031b00ff5c3ae975c1f5520cfe2457c011c3-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["mahroon", "red"],
+    currency: "INR",
+  },
+
+  //
+  {
+    id: "319b9aba-37d2-4937-977b-8b60c85c3caa",
+    sku: "armour-titan-aot",
+    name: "Armour Titan - AOT",
+    description: `"Unleash the might of the Armored Titan with this Attack on Titan-themed printed t-shirt. Featuring striking digital illustrations, this design captures the essence of power and strength from the iconic anime series."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/dc68b90c83c7907447de98e4d5cbb93247f7cb41-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/dc68b90c83c7907447de98e4d5cbb93247f7cb41-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+      "https://cdn.sanity.io/images/hscq4du4/production/bf573ab61352d0f86bd4a2e62fe2164a813e64cb-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["red", "yellow"],
+    currency: "INR",
+  },
+
+  //yellowwwwwww
+  {
+    id: "e5161f23-e52b-4be0-80fb-c05878eacd18",
+    sku: "minions",
+    name: "Minions",
+    description: `"Add a touch of mischief to your wardrobe with the Minions Printed T-Shirt. Featuring everyone's favorite yellow mischief-makers, this playful design brings the fun and laughter of the Despicable Me series to your everyday style."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/0af4242bef4aadb67771aa1f9e233fea51bf09a1-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/0af4242bef4aadb67771aa1f9e233fea51bf09a1-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["yellow"],
+    currency: "INR",
+  },
+  {
+    id: "612022b2-7c33-416f-8289-c60b2ff45080",
+    sku: "courageous-dog",
+    name: "Courageous Dog",
+    description: `"Showcase contrasting personalities with the Courageous Dog, Timid Reaction Printed T-Shirt. Featuring a bold and brave dog juxtaposed with a timid reaction, this design adds a playful twist to your outfit, capturing the complexity of emotions in one eye-catching print."`,
+    price: 40900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/445604648907fe21b1d94de171f85d761181be40-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/445604648907fe21b1d94de171f85d761181be40-1600x2000.png?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["s", "m", "l", "xl"],
+    categories: ["Printed T-Shirts"],
+    colors: ["yellow"],
+    currency: "INR",
+  },
+
+
+  //wall stickers
+
+  // anime
+  {
+    id: "51bc3ffd-7a59-442e-a798-646ef8bc9cfd",
+    sku: "eren-yeager",
+    name: "Eren Yeager",
+    description: `"Channel the rage of Eren Yeager with the Angry Eren Yeager Wall Sticker. Capture the intensity of Attack on Titan with this striking design, perfect for fans seeking to showcase their passion for the series."`,
+    price: 5000,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/1707a6a58a2f17e3b0661df54a8937053752f95d-236x236.jpg?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/1707a6a58a2f17e3b0661df54a8937053752f95d-236x236.jpg?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-feet"],
+    categories: ["Wall Stickers"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "76308b2e-4f08-4790-b3b2-c5101845dc4e",
+    sku: "one-piece",
+    name: "One Piece",
+    description: `"Capture the spirit of adventure with the "One Piece: Never End" Wall Sticker. Embrace the journey of the Straw Hat Pirates and the endless quest for the legendary One Piece treasure with this dynamic and inspiring design, perfect for fans of the beloved anime series."`,
+    price: 5000,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/de58ccefceeb568f5d657fd59ed9b38c88bb495c-236x236.jpg?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/de58ccefceeb568f5d657fd59ed9b38c88bb495c-236x236.jpg?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-feet"],
+    categories: ["Wall Stickers"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "260bc2d9-34cf-4a2b-a097-c490bc7f7f98",
+    sku: "team-deamon-slayer",
+    name: "Team Deamon Slayer",
+    description: `"Celebrate the bond of the Demon Slayer Corps with the Team Demon Slayer Wall Sticker. Showcase the unity and strength of Tanjiro, Nezuko, and their companions as they embark on their journey to eradicate demons and restore peace. Perfect for fans of the hit anime series."`,
+    price: 5000,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/51898ba3d7f15672751f4ea0d7aa00bf9b21bd82-236x463.jpg?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/51898ba3d7f15672751f4ea0d7aa00bf9b21bd82-236x463.jpg?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-feet"],
+    categories: ["Wall Stickers"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "7f308b7f-22db-4360-aabb-cc60f19baa33",
+    sku: "itachi-uchiha",
+    name: "Itachi Uchiha",
+    description: `"Embrace the enigmatic allure of Itachi Uchiha with the Itachi Uchiha Wall Sticker. Capturing the essence of this iconic character from Naruto, this design adds a touch of mystery and power to any space, making it an ideal choice for fans of the series seeking to showcase their admiration for Itachi."`,
+    price: 5000,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/ba1702cdcf02002dc1710527939a497bf912a452-564x769.jpg?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/ba1702cdcf02002dc1710527939a497bf912a452-564x769.jpg?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-feet"],
+    categories: ["Wall Stickers"],
+    colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "c5d7c6fc-2849-4730-a8df-a716b7ad8f6b",
+    sku: "dragon-ball",
+    name: "Dragon Ball",
+    description: `"Elevate your space with the Dragon Ball Wall Sticker. Featuring iconic characters from the legendary Dragon Ball series, this dynamic design brings the energy and excitement of the anime to your walls."`,
+    price: 5000,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/116d5d76d6a6c79d48e26c824fdaf829adb2907e-235x241.jpg?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/116d5d76d6a6c79d48e26c824fdaf829adb2907e-235x241.jpg?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-feet"],
+    categories: ["Wall Stickers"],
+    colors: ["black"],
+    currency: "INR",
+  },
 ]
