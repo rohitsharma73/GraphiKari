@@ -20,7 +20,7 @@ const filters = [
       { value: "Random Mobile Skins", label: "Random Mobile Skins" },
       // by devraj
       { value: "Poster", label: "Poster" },
-      
+      { value: "Laptop Skins", label: "Laptop Skins" },
 
       //added by mohit
       { value: "Printed T-Shirts", label: "Printed T-Shirts" },
@@ -47,6 +47,11 @@ const filters = [
       { value: "blue", label: "Blue" },
       { value: "Black", label: "Black" },
       { value: "one-feet", label: "one Sq. Feet" },
+
+      // by devraj
+      { value: "16 inch", label: "16 inch" },
+      { value: "14 inch", label: "14 inch" },
+
     ],
   },
 ]

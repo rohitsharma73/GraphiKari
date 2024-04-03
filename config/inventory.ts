@@ -1077,4 +1077,165 @@ export const inventory: InventoryProduct[] = [
     colors: ["Black"],
     currency: "INR",
   },
+  {
+    id: "01c7bd92-0757-41fb-9635-85f8ee0b7621",
+    sku: "joker-laptop-skin",
+    name: "joker laptop skin",
+    description: `"
+    "Transform your laptop with our Joker-inspired skin. Featuring the iconic grin and vibrant colors, it adds personality while protecting your device. Stand out with style. Fits laptops of all sizes.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/18e2617898948e7f26bd2add50eb976eebd80e97-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/18e2617898948e7f26bd2add50eb976eebd80e97-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "",
+    sku: "spiderman-laptop-skin",
+    name: "Spiderman Laptop Skin",
+    description: `"Swing into action with our Spider-Man laptop skin. Adorned with the classic web-slinger motif, it combines style and protection for your device. Perfect for fans of all ages. Fits most laptops."`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/f447974d33139e021eb4825d4441fbbd843781b1-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/f447974d33139e021eb4825d4441fbbd843781b1-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "b214f2d7-a437-4e1a-acf2-9297b34ab4fb",
+    sku: "naruto-laptop-skin",
+    name: "Naruto Laptop Skin",
+    description: `""Elevate your laptop's style with our Naruto-inspired skin. Featuring iconic characters and vibrant designs, it's a must-have for anime enthusiasts. Show your ninja spirit while keeping your device safe. Fits most laptops.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/53d66c77d529c452f498dfa8f67ab6b0b630da3f-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/53d66c77d529c452f498dfa8f67ab6b0b630da3f-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "7bbad979-2bd0-4a04-8779-9293709c6e0b",
+    sku: "doodles-laptop-skin",
+    name: "doodles Laptop Skin",
+    description: `""Unleash your creativity with our Doodles laptop skin. Bursting with fun and quirky designs, it adds a personal touch to your device. Stand out from the crowd with these unique doodles. Fits all laptops.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/879a4523d011ba28609a70fc9894f15d0b2639d4-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/879a4523d011ba28609a70fc9894f15d0b2639d4-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "27248d3c-e4c4-4957-8e5f-cc3ced4be65c",
+    sku: "dbz-laptop-skin",
+    name: "DBZ Laptop Skin",
+    description: `""Power up your laptop with our Dragon Ball Z skin. Featuring your favorite characters and epic battles, it's perfect for anime fans. Embrace the energy and protect your device in style. Fits most laptops.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/a206bd14f85594abb41ebbe02af657f16a941401-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/a206bd14f85594abb41ebbe02af657f16a941401-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "6b0d1fe2-0c09-4720-b057-e06c0e2e25f1",
+    sku: "shiva-laptop-skin",
+    name: "Shiva Laptop Skin",
+    description: `""Embrace cosmic energy with our Shiva laptop skin. Intricate designs inspired by the god of destruction. Protect your device with divine style. Fits most laptops flawlessly.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/b0ef6a89918b445670ad480383ebf3c4608b2424-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/b0ef6a89918b445670ad480383ebf3c4608b2424-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "7dd1b460-cf96-493e-9bff-1932ffcdee6c",
+    sku: "anime-laptop-skin",
+    name: "Anime Laptop Skin",
+    description: `""Elevate your laptop with our Anime skin. Bursting with vibrant colors and beloved characters, it's a must-have for enthusiasts. Express your passion and protect your device in style. Fits all laptops perfectly.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/11594f803e40a29ab37aa450180b036c7ffa2ca7-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/11594f803e40a29ab37aa450180b036c7ffa2ca7-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "0929ca25-3133-4a62-895b-78c579d3551f",
+    sku: "anime-doodle-laptop-skin",
+    name: "Anime Doodle Laptop Skin",
+    description: `""Fuse your love for anime and doodles with our Anime Doodle laptop skin. Bursting with quirky characters and vibrant colors, it adds a playful touch to your device. Fits all laptops seamlessly.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/29b3ea54c88a32780372e747e3b71e19d29e2bdb-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/29b3ea54c88a32780372e747e3b71e19d29e2bdb-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "b1391f81-298d-445d-b868-6515504cf15d",
+    sku: "goku-dbz-laptop-skin",
+    name: "GOKU DBZ Laptop Skin",
+    description: `""Power up your laptop with our DBZ Goku Evolve skin. Featuring Goku's iconic transformations, it embodies strength and determination. Elevate your device with Saiyan energy. Fits most laptops perfectly.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/b552f92056b5ff725d68fd68734e667d63982359-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/b552f92056b5ff725d68fd68734e667d63982359-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "fd520219-c80b-486e-bd3f-8809c1f6c3b8",
+    sku: "radha-krishna-laptop-skin",
+    name: "Radha Krishna Laptop Skin",
+    description: `""Evoke divine love with our Radha Krishna laptop skin. Adorned with sacred imagery and intricate details, it captures the essence of devotion. Embrace spirituality while safeguarding your device. Fits most laptops flawlessly.""`,
+    price: 39900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/61bcd16743145bd09ef7ec166365f37c278df025-832x972.png",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/61bcd16743145bd09ef7ec166365f37c278df025-832x972.png",
+    ],
+    sizes: ["16 inch", "14 inch"],
+    categories: ["Laptop Skin"],
+    colors: ["Black"],
+    currency: "INR",
+  },
 ]
