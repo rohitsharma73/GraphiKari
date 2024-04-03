@@ -1,4 +1,4 @@
-import { Image } from "sanity"
+ import { Image } from "sanity"
 
 interface InventoryProduct {
   id: string
@@ -880,6 +880,201 @@ export const inventory: InventoryProduct[] = [
     sizes: ["one-feet"],
     categories: ["Wall Stickers"],
     colors: ["black"],
+    currency: "INR",
+  },
+  {
+    id: "bd6fe0d4-260c-4bdb-a3ee-ba4fe3421402",
+    sku: "basketball-poster",
+    name: "Basketball Poster",
+    description: `"
+    Immerse yourself in the electrifying energy of basketball with our captivating poster. Perfect for fans of all ages, it's a daily reminder to embrace teamwork and chase your dreams with relentless passion."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/d5221a41367e265d5aa9017f075029478ab6dc74-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/d5221a41367e265d5aa9017f075029478ab6dc74-360x540.webp?w=2000&fit=max&auto=format&dpr=2",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "76c78879-2944-4b3d-9148-3d8c1557d180",
+    sku: "basketball-poster-lebron-james",
+    name: "Basketball Poster Lebron James",
+    description: `"
+    Immerse yourself in the electrifying energy of basketball with our captivating poster. Perfect for fans of all ages, it's a daily reminder to embrace teamwork and chase your dreams with relentless passion."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/e1eb08ad4a8e22b4e5d56081bc335cc411e858ff-360x540.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/e1eb08ad4a8e22b4e5d56081bc335cc411e858ff-360x540.webp"
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "c949cc45-8300-4830-8ddb-5ca48d993d92",
+    sku: "Porse",
+    name: "Porse",
+    description: `"Unleash the thrill of the open road with our dynamic sports car poster. Perfect for enthusiasts, it's a sleek addition to any space."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/0d3a5dd9a532a5906dbd1bded3b70633c16be720-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/0d3a5dd9a532a5906dbd1bded3b70633c16be720-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "cb37e6c9-cd62-415f-b38f-4c31b5968568",
+    sku: "mazda",
+    name: "mazda",
+    description: `" Ignite your passion for performance with our Mazda car poster. Sleek design meets exhilarating performance in this perfect addition to any automotive enthusiast's collection."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/e4c9bf5b054eeac35a234fc9d5d082a2a10fa284-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/e4c9bf5b054eeac35a234fc9d5d082a2a10fa284-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "d19d03d2-8e59-4c7c-91f3-2574e6da567c",
+    sku: "porshe-multiple",
+    name: "porshe multiple",
+    description: `"
+    Capture the essence of luxury and speed with our Porsche car poster. A symbol of timeless elegance and precision engineering, perfect for automotive enthusiasts."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/d52d0fb34b9a7f681a3dfa28bc6ecad87d577cb3-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/d52d0fb34b9a7f681a3dfa28bc6ecad87d577cb3-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["Poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "787acb30-68cd-4131-92a1-e91d1908fd87",
+    sku: "mercedes",
+    name: "mercedes",
+    description: `"Experience the epitome of luxury and sophistication with our Mercedes car poster. Immerse yourself in the iconic elegance and cutting-edge technology of Mercedes-Benz."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/b0b8dd10e91b6ffc89966ae2558bca6f87260e6d-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/b0b8dd10e91b6ffc89966ae2558bca6f87260e6d-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: [""],
+    currency: "INR",
+  },
+  {
+    id: "caf386d6-8a5c-4138-8fef-f0cdbbaa2742",
+    sku: "porshe-911",
+    name: "porshe 911",
+    description: `"Indulge in the thrill of the Porsche 911 with our captivating poster. Embrace the iconic design and exhilarating performance of this legendary sports car."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/e47f82a10163b27208ecb4ffc6cabecf70950745-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/e47f82a10163b27208ecb4ffc6cabecf70950745-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "cb1bc6ab-03ce-4901-89c3-dd0398a9c828",
+    sku: "gtr-3",
+    name: "GTR 3",
+    description: `"Feel the adrenaline rush with our GTR 3 poster. Experience the sleek design and powerful performance of this legendary sports car in every glance."`,
+    price: 7900,
+    image:
+      "",
+    images: [
+      "",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "a5c10d57-f847-4222-91b6-eaeb975a0a2c",
+    sku: "f1",
+    name: "F1",
+    description: `"Embark on a journey of speed and precision with our F1 poster. Capturing the excitement and innovation of Formula 1 racing, it's a must-have for motorsport enthusiasts."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/9bb0247f674899e1e2cfc5e9d6bca0fdd79d2394-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/9bb0247f674899e1e2cfc5e9d6bca0fdd79d2394-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "271ba182-29c8-4db3-80d1-875eabd8b9ba",
+    sku: "chevrolet",
+    name: "chevrolet",
+    description: `"Rev up your passion with our Chevrolet car poster. Featuring iconic models and American muscle, it's a tribute to the legacy of performance and innovation."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/b590f1e342046b1a355c1b06a3df35354c58a67c-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/b590f1e342046b1a355c1b06a3df35354c58a67c-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "38cee44-8af0-4852-8e1e-09bdff2b5d25",
+    sku: "gt",
+    name: "GT",
+    description: `"Experience the thrill of the GT with our captivating poster. Featuring sleek design and exhilarating performance, it's a must-have for automotive enthusiasts."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/6220d2b80d71086af3e235262fdbb6e090807a22-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/6220d2b80d71086af3e235262fdbb6e090807a22-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
+    currency: "INR",
+  },
+  {
+    id: "5df2fc7a-1534-4052-a508-998daec0e2d3",
+    sku: "ferrari",
+    name: "ferrari",
+    description: `"Ignite your passion for speed and luxury with our Ferrari car poster. Capturing the essence of Italian excellence and performance, it's a symbol of automotive perfection."`,
+    price: 7900,
+    image:
+      "https://cdn.sanity.io/images/hscq4du4/production/958d97194efef6e3ba3a73b6cb33717e95276f96-493x740.webp",
+    images: [
+      "https://cdn.sanity.io/images/hscq4du4/production/958d97194efef6e3ba3a73b6cb33717e95276f96-493x740.webp",
+    ],
+    sizes: ["one-size"],
+    categories: ["poster"],
+    colors: ["Black"],
     currency: "INR",
   },
 ]
